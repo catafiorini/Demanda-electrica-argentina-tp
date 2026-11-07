@@ -72,8 +72,8 @@ temperatura promedio, potencia máxima y demanda por distribuidora.
 │   └── base_limpia.xlsx         # Base depurada, la genera el notebook
 ├── notebooks/
 │   └── Tp_labo.ipynb            # Notebook de Google Colab: carga, limpieza, análisis y gráficos
-├── graficos/                    # Gráficos 
-├── Informe/
+├── graficos/                    # Gráficos descargados
+├── informe/
 │   ├── informe.tex              # Código LaTeX del informe
 │   └── Tp_LabMetCuant.pdf       # Informe académico compilado
 ├── PPT/
