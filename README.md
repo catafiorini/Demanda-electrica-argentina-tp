@@ -72,7 +72,7 @@ temperatura promedio, potencia máxima y demanda por distribuidora.
 │   └── base_limpia.xlsx         # Base depurada, la genera el notebook
 ├── notebooks/
 │   └── Tp_labo.ipynb            # Notebook de Google Colab: carga, limpieza, análisis y gráficos
-├── graficos/                    # Gráficos exportados con plt.savefig()
+├── graficos/                    # Gráficos 
 ├── Informe/
 │   ├── informe.tex              # Código LaTeX del informe
 │   └── Tp_LabMetCuant.pdf       # Informe académico compilado
@@ -84,8 +84,11 @@ temperatura promedio, potencia máxima y demanda por distribuidora.
 
 ---
 
+**Herramientas:** Python (pandas, NumPy, Matplotlib, seaborn), Google Colab, LaTeX/Overleaf.
+
+---
+
 ## Uso de inteligencia artificial
 
 Se usaron herramientas de IA como asistentes en el código, la redacción y la interpretación de resultados.
 Todas las salidas fueron revisadas y contrastadas con los datos; el criterio analítico y las conclusiones son del grupo.
-En el notebook se indica qué celdas tuvieron asistencia de IA y qué instrucción se utilizó.
